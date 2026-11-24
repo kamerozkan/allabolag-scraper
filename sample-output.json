@@ -1,0 +1,355 @@
+[
+  {
+    "orgnr": "5565873147",
+    "orgnrFormatted": "556587-3147",
+    "companyId": "2K1RZ7FI5YFOF",
+    "name": "Aurevia AB",
+    "legalName": "Aurevia AB",
+    "companyType": "Aktiebolag",
+    "companyTypeCode": "AB",
+    "status": "ACTIVE",
+    "registrationDate": "2000-03-13",
+    "foundationDate": "13.03.2000",
+    "currency": "SEK",
+    "revenueThousandsSek": 46881,
+    "revenueSek": 46881000,
+    "profitThousandsSek": -727,
+    "profitSek": -727000,
+    "shareCapitalThousands": 100,
+    "employees": 28,
+    "primaryIndustry": "Läkemedel",
+    "industries": [
+      "Läkemedel",
+      "Medicinteknisk utrustning",
+      "Forskning",
+      "Facklig, vetenskaplig och teknisk verksamhet"
+    ],
+    "naceCodes": [
+      "72109 Annan naturvetenskaplig och teknisk forskning och utveckling"
+    ],
+    "county": "Uppsala Län",
+    "municipality": "Uppsala",
+    "visitorAddress": {
+      "street": "Skolgatan 8",
+      "zipCode": "75015",
+      "city": "Uppsala"
+    },
+    "postalAddress": {
+      "street": "Box 15027",
+      "zipCode": "75015",
+      "city": "Uppsala"
+    },
+    "latitude": 59.86098,
+    "longitude": 17.628925,
+    "phone": "+1 555 0100",
+    "email": "contact@example.com",
+    "website": "https://www.aurevia.com/",
+    "socialLinks": {
+      "linkedInUrl": "https://www.linkedin.com/company/aurevia-cro",
+      "facebookUrl": "https://www.facebook.com/aureviacro",
+      "instagramUrl": "https://www.instagram.com/aurevia_clinical_research_cro/"
+    },
+    "registeredForVat": true,
+    "registeredForPayrollTax": true,
+    "purpose": "Aktiebolaget ska bedriva konsulttjänster inom läkemedelsbranschen samt utföra tjänster relaterade till forskning inom läkemedel och medicintekniska produkter, med avseende på kvalitets- och regleringsfrågor samt idka därmed förenlig verksamhet.",
+    "latestAccountsYear": "2025",
+    "financialAccounts": [
+      {
+        "year": "2025",
+        "period": "2025-12",
+        "currency": "SEK",
+        "revenueThousands": 46881,
+        "operatingProfitThousands": -727,
+        "netProfitThousands": -727,
+        "totalAssetsThousands": 11635,
+        "equityThousands": -26,
+        "equityRatioPercent": 31.9,
+        "profitMarginPercent": 145.7,
+        "ebitdaThousands": -4378,
+        "employees": 28
+      },
+      {
+        "year": "2024",
+        "period": "2024-12",
+        "currency": "SEK",
+        "revenueThousands": 45549,
+        "operatingProfitThousands": 2504,
+        "netProfitThousands": 1960,
+        "totalAssetsThousands": 17273,
+        "equityThousands": -37,
+        "equityRatioPercent": 42,
+        "profitMarginPercent": 184.7,
+        "ebitdaThousands": 3335,
+        "employees": 29
+      },
+      {
+        "year": "2023",
+        "period": "2023-12",
+        "currency": "SEK",
+        "revenueThousands": 47809,
+        "operatingProfitThousands": 4362,
+        "netProfitThousands": 3430,
+        "totalAssetsThousands": 14844,
+        "equityThousands": -59,
+        "equityRatioPercent": 44.6,
+        "profitMarginPercent": 191,
+        "ebitdaThousands": 4854,
+        "employees": 32
+      },
+      {
+        "year": "2022",
+        "period": "2022-12",
+        "currency": "SEK",
+        "revenueThousands": 41996,
+        "operatingProfitThousands": 4102,
+        "netProfitThousands": 3246,
+        "totalAssetsThousands": 16904,
+        "equityThousands": -85,
+        "equityRatioPercent": 36.2,
+        "profitMarginPercent": 163,
+        "ebitdaThousands": 5360,
+        "employees": 26
+      },
+      {
+        "year": "2021",
+        "period": "2021-12",
+        "currency": "SEK",
+        "revenueThousands": 37246,
+        "operatingProfitThousands": 5265,
+        "netProfitThousands": 4166,
+        "totalAssetsThousands": 15075,
+        "equityThousands": -97,
+        "equityRatioPercent": 40.3,
+        "profitMarginPercent": 170.2,
+        "ebitdaThousands": 6165,
+        "employees": 25
+      }
+    ],
+    "rolesCount": 5,
+    "roles": [
+      {
+        "group": "Management",
+        "name": "Inger Ulrika Alexandra Hammarström",
+        "role": "Extern verkställande direktör",
+        "type": "Person"
+      },
+      {
+        "group": "Board",
+        "name": "Juha-Pekka Nuutinen",
+        "role": "Ledamot",
+        "type": "Person"
+      },
+      {
+        "group": "Board",
+        "name": "Ida Josefin Johansson",
+        "role": "Suppleant",
+        "type": "Person"
+      },
+      {
+        "group": "Revision",
+        "name": "Lars Gustaf Kylberg",
+        "role": "Huvudansvarig revisor",
+        "type": "Person"
+      },
+      {
+        "group": "Revision",
+        "name": "Öhrlings PricewaterhouseCoopers AB",
+        "role": "Revisor",
+        "type": "Company"
+      }
+    ],
+    "shareholders": [
+      {
+        "name": "Labquality Oy",
+        "sharePercent": null,
+        "numberOfShares": 1,
+        "companyId": null
+      }
+    ],
+    "trademarksCount": 5,
+    "patentsCount": 0,
+    "grantsCount": 0,
+    "allabolagUrl": "https://www.allabolag.se/foretag/aurevia-ab/uppsala/l%C3%A4kemedel/2K1RZ7FI5YFOF",
+    "query": "5565873147",
+    "scrapedAt": "2026-11-24T07:32:19+00:00"
+  },
+  {
+    "orgnr": "5567037485",
+    "orgnrFormatted": "556703-7485",
+    "companyId": "2K2GXM5I5YH40",
+    "name": "Spotify AB",
+    "legalName": "Spotify AB",
+    "companyType": "Aktiebolag",
+    "companyTypeCode": "AB",
+    "status": "ACTIVE",
+    "registrationDate": "2006-05-10",
+    "foundationDate": "10.05.2006",
+    "currency": "SEK",
+    "revenueThousandsSek": 114518989,
+    "revenueSek": 114518989000,
+    "profitThousandsSek": 19299658,
+    "profitSek": 19299658000,
+    "shareCapitalThousands": 11,
+    "employees": 1271,
+    "primaryIndustry": "Radio, TV-programbolag",
+    "industries": [
+      "Radio, TV-programbolag",
+      "Medieförmedling"
+    ],
+    "naceCodes": [
+      "60100 Radiosändning och distribution av ljudinspelningar"
+    ],
+    "county": "Stockholms Län",
+    "municipality": "Stockholm",
+    "visitorAddress": {
+      "street": "Regeringsgatan 19 5tr",
+      "zipCode": "111 53",
+      "city": "Stockholm"
+    },
+    "postalAddress": {
+      "street": "Regeringsgatan 19 5tr",
+      "zipCode": "111 53",
+      "city": "Stockholm"
+    },
+    "latitude": 59.3309730722826,
+    "longitude": 18.0681195961639,
+    "phone": "+1 555 0100",
+    "email": null,
+    "website": null,
+    "socialLinks": null,
+    "registeredForVat": true,
+    "registeredForPayrollTax": true,
+    "purpose": "Bolaget har till föremål för sin verksamhet att bedriva Internetrelaterade tjänster inom digitala medier som musik, spel och TV, samt att, direkt eller indirekt, äga och förvalta fast och lös egendom, äga aktier och andelar i dotterbolag och andra bolag samt tillhandahålla administrativa tjänster för dessa bolag och därmed förenlig verksamhet.",
+    "latestAccountsYear": "2025",
+    "financialAccounts": [
+      {
+        "year": "2025",
+        "period": "2025-12",
+        "currency": "SEK",
+        "revenueThousands": 114518989,
+        "operatingProfitThousands": 22229936,
+        "netProfitThousands": 19299658,
+        "totalAssetsThousands": 108254618,
+        "equityThousands": -661010,
+        "equityRatioPercent": 60.1,
+        "profitMarginPercent": 186.4,
+        "ebitdaThousands": 13020137,
+        "employees": 1271
+      },
+      {
+        "year": "2024",
+        "period": "2024-12",
+        "currency": "SEK",
+        "revenueThousands": 108131545,
+        "operatingProfitThousands": 9153051,
+        "netProfitThousands": 10046736,
+        "totalAssetsThousands": 91250324,
+        "equityThousands": -1213557,
+        "equityRatioPercent": 55.6,
+        "profitMarginPercent": 145.7,
+        "ebitdaThousands": 9053143,
+        "employees": 1397
+      },
+      {
+        "year": "2023",
+        "period": "2023-12",
+        "currency": "SEK",
+        "revenueThousands": 88845284,
+        "operatingProfitThousands": -2032876,
+        "netProfitThousands": -1894831,
+        "totalAssetsThousands": 61994961,
+        "equityThousands": -2657658,
+        "equityRatioPercent": 43.5,
+        "profitMarginPercent": 93,
+        "ebitdaThousands": 654530,
+        "employees": 1706
+      },
+      {
+        "year": "2022",
+        "period": "2022-12",
+        "currency": "SEK",
+        "revenueThousands": 78045341,
+        "operatingProfitThousands": -4623355,
+        "netProfitThousands": -4757506,
+        "totalAssetsThousands": 57488562,
+        "equityThousands": -1676978,
+        "equityRatioPercent": 44,
+        "profitMarginPercent": 79.2,
+        "ebitdaThousands": -2079043,
+        "employees": 1846
+      },
+      {
+        "year": "2021",
+        "period": "2021-12",
+        "currency": "SEK",
+        "revenueThousands": 61116840,
+        "operatingProfitThousands": 4204170,
+        "netProfitThousands": 4055213,
+        "totalAssetsThousands": 53375188,
+        "equityThousands": -1278018,
+        "equityRatioPercent": 49,
+        "profitMarginPercent": 89.6,
+        "ebitdaThousands": 1170728,
+        "employees": 1857
+      }
+    ],
+    "rolesCount": 8,
+    "roles": [
+      {
+        "group": "Board",
+        "name": "Carl Peter Christian Luiga",
+        "role": "Ordförande",
+        "type": "Person"
+      },
+      {
+        "group": "Board",
+        "name": "Personuppgift Skyddad",
+        "role": "Ledamot",
+        "type": "Person"
+      },
+      {
+        "group": "Board",
+        "name": "Marcus Anders Glimberg",
+        "role": "Ledamot",
+        "type": "Person"
+      },
+      {
+        "group": "Board",
+        "name": "Carl Peter Christian Luiga",
+        "role": "Ledamot",
+        "type": "Person"
+      },
+      {
+        "group": "Revision",
+        "name": "Jakob Tomas Christoffer Grunditz",
+        "role": "Huvudansvarig revisor",
+        "type": "Person"
+      },
+      {
+        "group": "Revision",
+        "name": "Ernst & Young Aktiebolag",
+        "role": "Revisor",
+        "type": "Company"
+      },
+      {
+        "group": "Other",
+        "name": "Personuppgift Skyddad",
+        "role": "Extern firmatecknare",
+        "type": "Person"
+      },
+      {
+        "group": "Other",
+        "name": "Anna Sofia Lundström",
+        "role": "Extern firmatecknare",
+        "type": "Person"
+      }
+    ],
+    "shareholders": [],
+    "trademarksCount": 5,
+    "patentsCount": 0,
+    "grantsCount": 0,
+    "allabolagUrl": "https://www.allabolag.se/foretag/spotify-ab/stockholm/radio-tv-programbolag/2K2GXM5I5YH40",
+    "query": "5567037485",
+    "scrapedAt": "2026-11-24T07:32:20+00:00"
+  }
+]
